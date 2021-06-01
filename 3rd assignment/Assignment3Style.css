@@ -1,0 +1,61 @@
+body
+{
+    background-image:url("background-image1.jpg");
+    background-size:cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+
+}
+.body2
+{
+    background-color:rgb(4, 49, 87);
+    background-size:cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size: 30px;
+    padding: 20px 25px;
+    
+}
+.div1{
+    display: inline-block;
+    margin:270px 440px;
+}
+.div2{
+    display: inline-block;
+    margin:200px 250px 180px 550px;
+}
+.div3{
+    display: inline-block;
+    margin:50px 250px 50px 550px;
+}
+.btn
+{
+    color: #FFFFFF;
+    background-color: #87a7b3;
+    opacity:0.7;
+    padding: 14px 25px;
+    margin:10px;
+    border-radius: 5px;
+    font-size: 50px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #87a7b3;
+    opacity:1;
+}
+
+.login
+{
+    color: #FFFFFF;
+    background-color: #87a7b3;
+    opacity:0.8;
+    padding: 14px 25px;
+    margin:300px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.login:hover{
+    background-color: #87a7b3;
+    opacity:1;
+}
